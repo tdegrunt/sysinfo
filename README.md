@@ -1,4 +1,4 @@
-# osinfo
+# sysinfo
 
 Output system, os, and process information as JSON.
 Yes, this is a very simple library (at the moment).
@@ -10,7 +10,7 @@ Yes, this is a very simple library (at the moment).
 
 ## License
 
-osinfo is licensed under MIT license.
+sysinfo is licensed under MIT license.
 
 	Copyright (C) 2011 Tom de Grunt <tom@degrunt.nl>
 
